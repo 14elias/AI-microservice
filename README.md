@@ -1,4 +1,4 @@
-# AI Microservice
+# AI grpc Microservice
 
 A lightweight gRPC microservice that exposes AI inference operations backed by the Groq API.
 
